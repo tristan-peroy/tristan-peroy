@@ -1,4 +1,4 @@
-- Quantitative Researcher (Equity and Futures)
+- Quantitative Researcher (Equities, Futures, ETFs)
 
 - MSc Mathematical and Computational Finance from University of Oxford
 
